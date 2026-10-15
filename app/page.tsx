@@ -261,7 +261,7 @@ export default function HomePage() {
         </div>
 
         <span className="copyright">
-          © {new Date().getFullYear()} Mattis Cohen Art
+          © 2026 Mattis Cohen Art
         </span>
       </footer>
     </main>
